@@ -1,7 +1,7 @@
 body {
 	font-family: verdana;
-	color: #5acfed;
-	background-color: #f0f288;
+	color: #75b6d7;
+	background-color: #ccc;
 }
 
 /*Image should float left, <p> float right*/
@@ -15,10 +15,10 @@ img {
 
 #one {
 	
-	background-color: #d598e1;	
+	background-color: #ddd;	
 }
 
 #two {
-	float: left;
+	
 }
 
