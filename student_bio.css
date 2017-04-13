@@ -18,7 +18,9 @@ img {
 	background-color: #ddd;	
 }
 
-#two {
-	
+#contact {
+	display: block;
+	float: left;
+	width: 100%;
 }
 
